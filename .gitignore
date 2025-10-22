@@ -1,0 +1,4 @@
+.venv/
+MOCK_DATA.csv
+.vscode/
+.__pycache__/
