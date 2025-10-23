@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 .venv/
 MOCK_DATA.csv
 .vscode/
 .__pycache__/
-=======
-.venv/
-MOCK_DATA.csv
-.vscode/
-.__pycache__/
->>>>>>> 32e1aba7ad8ce7d2fa990c024b4954d1309eb64d
